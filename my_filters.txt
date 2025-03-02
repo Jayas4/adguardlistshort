@@ -1,3 +1,14 @@
 https://youtube.com/shorts/*
 https://www.youtube.com/shorts/
 https://youtube.com/shorts/
+www.youtube.com/get_video_info
+www.youtube.com/api/stats/qoe
+www.youtube.com/api/stats/watchtime
+www.youtube.com/youtubei/v1/advertiser
+www.youtube.com/youtubei/v1/player/ad_break
+www.youtube.com/youtubei/v1/player/ad_params
+www.youtube.com/youtubei/v1/player/annotations
+www.youtube.com/youtubei/v1/player/log_event
+i.ytimg.com/an_webp
+www.youtube.com/shorts
+youtube.com/shorts
