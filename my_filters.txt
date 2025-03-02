@@ -12,3 +12,7 @@ www.youtube.com/youtubei/v1/player/log_event
 i.ytimg.com/an_webp
 www.youtube.com/shorts
 youtube.com/shorts
+dns.google
+dns.quad9.net
+doh.opendns.com
+cloudflare-dns.com
