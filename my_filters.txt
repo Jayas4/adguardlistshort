@@ -1,2 +1,3 @@
 https://youtube.com/shorts/*
 https://www.youtube.com/shorts/
+https://youtube.com/shorts/
